@@ -68,12 +68,15 @@ East ---------------             --------------- West
 - Manage traffic lights to optimize vehicle flow.
 - Press Esc to gracefully conclude the simulation.
 
-## Authors
+## Author
 
-- yasnaanani
-- bdelemos
-- lpleinte
+- Author: Yassine Naanani [@K11E3R](https://github.com/k11e3r)
+- Email: prs.online.00@gmail.com
 
----
 
-***Enjoy managing your virtual intersection and keeping traffic flowing smoothly! 🚦🚗***
+## License
+
+This project is licensed under the MIT License. See the  [MIT License](LICENSE) file for details.
+
+<br>
+<p align="center"><i>Enjoy</i></p>
