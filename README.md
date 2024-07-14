@@ -79,4 +79,4 @@ East ---------------             --------------- West
 This project is licensed under the MIT License. See the  [MIT License](LICENSE) file for details.
 
 <br>
-<p align="center"><i>Enjoy</i></p>
+<p align="center"><i>Enjoy managing your virtual intersection and keeping traffic flowing smoothly! 🚦🚗</i></p>
