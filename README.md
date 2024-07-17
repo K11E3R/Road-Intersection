@@ -74,7 +74,7 @@ East ---------------             --------------- West
 - Brice Delemos Dit Pereira
 
 
-- Contact us on: prs.online.00@gmail.com
+Contact us on: prs.online.00@gmail.com
   
 
 
