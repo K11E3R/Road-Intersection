@@ -70,8 +70,12 @@ East ---------------             --------------- West
 
 ## Author
 
-- Author: Yassine Naanani [@K11E3R](https://github.com/k11e3r)
-- Email: prs.online.00@gmail.com
+- Yassine Naanani
+- Brice Delemos Dit Pereira
+
+
+- Contact us on: prs.online.00@gmail.com
+  
 
 
 ## License
